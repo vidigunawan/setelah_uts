@@ -1,0 +1,2 @@
+# setelah_uts
+CRUD
